@@ -1,0 +1,72 @@
+*{font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    font-size: 75px;
+}
+ #main{
+    background-color: #94EAFF;
+    text-decoration: none;
+     color:darkblue;
+}
+
+
+#mainlinks
+{
+    text-decoration: none;
+     color:darkblue;
+}
+
+
+#self{
+font-family: 'Give You Glory', cursive;
+color: #DDCDEF;
+text-align: center;
+font-size: 55px;
+}
+#thoughts{
+    font-family: 'Dancing Script', cursive;
+ color: #DDCDEF;
+    text-align: center;
+    font-size: 55px;
+}
+
+#voice {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #DDCDEF;
+    text-align: center;
+    font-size: 55px;
+}
+#choices{
+    font-family: 'Shadows Into Light', cursive;
+    list-style-type:none;
+    text-align: center;
+    font-size:35px;
+}
+
+    #outerbg{
+     background-color: #265F5D;
+
+    }
+
+    #worldbg{
+     background-color: #000;
+}
+a:link {font-family: 'Shadows Into Light', cursive;
+    color: #DDCDEF;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    font-family: 'Shadows Into Light', cursive;
+    color: #DDCDEF;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: 'Shadows Into Light', cursive;
+    color: darkblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+}
